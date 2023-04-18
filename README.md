@@ -1,1 +1,1 @@
-# upstoxsubdomain
+# subdomaintakeover
